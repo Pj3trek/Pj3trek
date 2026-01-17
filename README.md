@@ -1,6 +1,6 @@
 # Hi there, I'm Piotr Słomka! 👋
 
-I am a student at **ZSTI Gliwice** specializing in web application design and development. I am currently focused on building full-stack applications that are clean, efficient, and ready for production.
+I am a student at **ZSTI Gliwice** specializing in web application design and development. I am currently focused on building full-stack applications that are clean and efficient.
 
 ---
 
