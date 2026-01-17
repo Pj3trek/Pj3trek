@@ -10,8 +10,6 @@ I am a student at **ZSTI Gliwice** specializing in web application design and de
 * Spring Boot (Java), PostgreSQL
 * Git & GitHub
 
----
-
 ### 🚀 Current Project: Finance & Subscription Manager
 I am currently developing a full-stack application to help users manage "subscription fatigue" and track digital spending.
 
