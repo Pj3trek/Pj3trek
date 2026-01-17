@@ -1,4 +1,4 @@
-# Hi there, I'm Piotr Słomka! 👋
+# Hi there, I'm Piotr! 👋
 
 I am a student at **ZSTI Gliwice** specializing in web application design and development. I am currently focused on building full-stack applications that are clean and efficient.
 
