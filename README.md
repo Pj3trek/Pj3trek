@@ -16,6 +16,6 @@ I am currently developing a full-stack application to help users manage "subscri
 
 ### 📊 GitHub Insights
 
-* 🔭 I’m currently learning: **React Hooks $ Spring boot**
+* 🔭 I’m currently learning: **React Hooks & Node JS**
 * 🌱 My goal for 2026: **Mastering Full-Stack Architecture**
 * 📫 How to reach me: **[piotrslomka12@gmail.com]**
