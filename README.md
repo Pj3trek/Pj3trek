@@ -7,7 +7,6 @@ I am a student at **ZSTI Gliwice** specializing in web application design and de
 ### 🛠️ Technical Stack
 
 * React, TypeScript, HTML5 & CSS3
-* Spring Boot (Java), PostgreSQL
 * Git & GitHub
 
 ### 🚀 Current Project: Finance & Subscription Manager
